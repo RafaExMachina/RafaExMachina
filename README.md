@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RafaExMachina
 - 👀 I’m interested in AI, machine learning and chaos
-- 🌱 I’m currently Phd in electrical engineer
+- 🌱 I’m currently Phd student in electrical engineer
 - 💞️ I’m looking to collaborate on AI, machine learning and chaos
 - 📫 How to reach me fael_cefet@hotmail.com
 
