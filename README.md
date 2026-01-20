@@ -13,7 +13,7 @@
 
 - ### 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,linux,git,latex,tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,c,cpp,java,linux,git,latex,tensorflow,pytorch&theme=dark" />
 </p>
 
 ## Contacts:
