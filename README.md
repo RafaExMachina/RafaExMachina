@@ -34,7 +34,7 @@
   <img height="165em"
        src="https://github-readme-stats.vercel.app/api?username=RafaExMachina&show_icons=true&theme=dracula&count_private=true" />
   <img height="165em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaExMachina&layout=compact&langs_count=6&theme=dracula" />
+       ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaExMachina&show_icons=true&theme=radical)
 </div>
 
 
