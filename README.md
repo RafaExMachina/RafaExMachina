@@ -31,10 +31,14 @@
 </div>
 
 <div align="center">
-  <img height="165em"
-       src="https://github-readme-stats.vercel.app/api?username=RafaExMachina&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="165em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaExMachina&layout=compact&langs_count=6&theme=dracula"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RafaExMachina&show_icons=true&theme=dracula&count_private=true&cache_seconds=1800"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaExMachina&layout=compact&langs_count=6&theme=dracula&cache_seconds=1800"
+    height="165"
+  />
 </div>
 
 <!---
