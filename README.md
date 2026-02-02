@@ -10,7 +10,7 @@
 - Machine learning for symbol detection
 - Spectral analysis of chaotic signals
 - Nonlinear dynamical systems 
-- DSP for AI systems
+- DSP for AI systems.
 
 ### 🛠️ Tools & Technologies
 
