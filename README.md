@@ -29,11 +29,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/RafaExMachina?theme=dracula"/>
-  <br/><br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaExMachina&layout=compact&theme=dracula"/>
-</p>
+
 
 ![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RafaExMachina?theme=dracula)
 <!--
