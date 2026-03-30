@@ -29,6 +29,18 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RafaExMachina&show_icons=true&theme=dracula&count_private=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaExMachina&layout=compact&langs_count=6&theme=dracula"
+    height="165"
+  />
+</div>
+
 <!--
 <div align="center">
   <img
