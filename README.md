@@ -32,11 +32,11 @@
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RafaExMachina&show_icons=true&theme=dracula&count_private=true"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RafaExMachina&show_icons=true&theme=dracula&count_private=true"
     height="165"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaExMachina&layout=compact&langs_count=6&theme=dracula"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RafaExMachina&layout=compact&langs_count=6&theme=dracula"
     height="165"
   />
 </div>
