@@ -40,7 +40,7 @@
     height="165"
   />
 </div>
-
+![Stats](https://awesome-github-stats.azurewebsites.net/user-stats/RafaExMachina?theme=dracula)
 <!--
 <div align="center">
   <img
